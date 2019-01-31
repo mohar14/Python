@@ -1,8 +1,6 @@
-# This program was written for CS 111 for project 3
 # Python program to make horizontal, vertical collages and posterize pictures based on a order
 # Author: Mohar Dey
-# NetId: 656651582
-# Date Due: 07-29-18
+
 
 class smartPicture(Picture):
   # defining the constructor variable for smart picture class
